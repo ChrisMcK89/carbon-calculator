@@ -28,7 +28,7 @@ E.mission Web App - Full-stack Javascript web application, using the React libra
     <td>User Compare</td>
   </tr>
   <tr>
-    <td><img src="images/usercompare.jpg" width="500px" ></td>
+    <td><img src="images/usercompare.jpg" width="750px" ></td>
    </tr>
  </table>
  <table>
@@ -37,7 +37,7 @@ E.mission Web App - Full-stack Javascript web application, using the React libra
      <td>Learn More</td>
   </tr>
   <tr>
-    td><img src="images/updateuser.jpg" width="375px" ></td>
+    <td><img src="images/updateuser.jpg" width="375px" ></td>
     <td><img src="images/learnmore.jpg" width="375px" ></td>
     </tr>
  </table>
