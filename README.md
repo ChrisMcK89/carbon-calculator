@@ -30,8 +30,8 @@ E.mission Web App - Full-stack Javascript web application, using the React libra
      <td>Learn More</td>
   </tr>
   <tr>
-    <td><img src="Images/usercompare.jpg" width="250px" ></td>
-    <td><img src="Images/updateuser.jpg" width="250px" ></td>
-    <td><img src="Images/learnmore.jpg" width="250px" ></td>
+    <td><img src="images/usercompare.jpg" width="250px" ></td>
+    <td><img src="images/updateuser.jpg" width="250px" ></td>
+    <td><img src="images/learnmore.jpg" width="250px" ></td>
     </tr>
  </table> -->
